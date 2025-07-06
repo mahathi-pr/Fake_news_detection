@@ -11,4 +11,4 @@ A machine learning project to classify news as real or fake using Sentence-BERT 
 - Deployed locally using Streamlit for real-time prediction.
 
 ## Run
-`streamlit run app.py`
+`streamlit run app 1.py`
